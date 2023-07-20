@@ -1,9 +1,11 @@
 # JMadherence
 
 Code for (i) computation of time-varying covariates for cumulative months covered by drug consumption and adherence to drug treatment; (ii) joint models for time-dependent consumption/adherence and survival, with selection of the best model by cross-validation.
+[This code is also freely available as Supporting Information in the main reference paper.]
 
 ### Reference
 Spreafico, M. & Ieva, F. (2021). Dynamic monitoring of the effects of adherence to medication on survival in heart failure patients: A joint modelling approach exploiting time-varying covariates. *Biometrical Journal*, **62**(2):305–322. [https://link.springer.com/article/10.1007/s10260-022-00647-0](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201900365)
+
 
 ### Data Availability
 We cannot provide the original administrative data due to confidentiality.
