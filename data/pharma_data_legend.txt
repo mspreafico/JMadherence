@@ -1,0 +1,16 @@
+Variables legend of datasets 'fake_data.Rdata' and 'fake_data_ptsABCDE.Rdata'
+
+ID = patient's ID
+fup = follow-up time [months]
+death = dichotomous variables with indicates if the patient was dead (1) or
+		censored (0) at the end of follow-up
+gender = patient's gender
+age_in = patient's age at index hospitalization
+age = standardized patient's age at index hospitalization
+comorbidity = number of patient's comorbidity at index hospitalization
+n_com = standardized number of patient's comorbidity at index hospitalization
+time = time t [months]
+cum_months = a continuous time-dependent variable which indicates the cumulative 
+		months covered by ACE/ARB consumption up to time t for the i-th patient
+adherence = dichotomous time-dependent variable which indicates if the i-th patient 
+		is adherent to the ACE/ARB therapy at time t

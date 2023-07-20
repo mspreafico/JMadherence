@@ -1,0 +1,17 @@
+Variables legend of dataset 'administrative_data_pt_E.Rdata'
+
+ID = patient's ID
+fup = follow-up time [months]
+death = dichotomous variables with indicates if the patient was dead (1) or
+		censored (0) at the end of follow-up
+gender = patient's gender
+age_in = patient's age at index hospitalization
+comorbidity = number of patient's comorbidity at index hospitalization
+event_type = type of event: 'hospitalization' or 'drug purchase'
+index_date = patient's index administrative date (first HF discharge) [%Y-%m-%d]
+hosp_adm_date = date of admission in hospital for 'hospitalization' event [%Y-%m-%d]
+LOS = Lenght of Stay in hospital for 'hospitalization' event
+ATC_class = pharmacological class (previously identified from ATC codes)
+purchase_date = date of purchase for 'drug purchase' event [%Y-%m-%d]
+days_pharma = number of days of treatment covered by the prescription for 
+		'drug purchase' event
